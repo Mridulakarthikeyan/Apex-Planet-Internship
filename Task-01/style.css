@@ -1,0 +1,31 @@
+.container{
+    color:black;
+    margin-top: 80px;
+    margin-left: 100px;
+background-color: bisque;
+}
+.calculator{
+    
+    background-color: bisque;   
+}
+body{
+    background-color: bisque;   
+}
+.input-box{
+    margin: 10px;
+    margin-right: 580px;
+    padding: 30px;
+    display:flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: beige;
+}
+.input-box button{
+    background-color: yellowgreen;
+    cursor:pointer;
+    border: 0;
+    border-radius: 5px;
+    outline:0;
+    padding: 15px 30px;
+    margin-left: 30px;
+}
