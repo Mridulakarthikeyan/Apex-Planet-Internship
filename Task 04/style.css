@@ -1,0 +1,115 @@
+nav{
+    background-color:pink;
+    color:brown;
+    padding:20px;
+}
+li,ul,h1{
+    background-color:pink;
+    color:brown;
+    display:inline;
+}
+.bar {
+    text-align: center;
+    margin-top: 20px;
+}
+ul
+{
+    padding-left:60%;
+}
+p{
+    text-align:center;
+    cursor:pointer;
+    color:brown;
+    font-size: 1.8em;
+}
+
+*
+{
+    margin:0;
+    padding:0;
+}
+li:hover
+{
+color: white;
+cursor:pointer;
+}
+.bar{
+    text-align:center;
+    padding:30px;
+    
+}
+
+.input
+{
+    width:100px;
+    padding:15px;
+}
+img
+{
+    width:200px;
+    height:200px;
+}
+
+.product
+{
+    text-align:center;
+}
+.about{
+
+color:brown;
+    text-align:center;
+    margin-top:20px;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+.contact{
+    text-align:center;
+    background-color:pink;
+    cursor: pointer;
+    font-size: 0.8em;
+    padding-bottom: 20px;
+}
+.box {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 250px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+display:inline-block;
+}
+
+
+
+.box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.box img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.box p {
+    margin-top: 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #5c3d1e;
+}
+form{
+    color:brown;
+    font-size: medium;
+    font-weight:bold ;
+}
+h3{
+    text-align:center;
+    background-color:pink;
+    
+    color: brown;
+    
+}
